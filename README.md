@@ -2,7 +2,7 @@
 
 ## chromaticity
 
-## 색도좌표 사이트
+## [색도좌표 사이트](https://rlaghdtlr.github.io/stcN/chromaticity/)
 
 ### version 1.0
 
