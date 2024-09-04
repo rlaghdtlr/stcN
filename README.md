@@ -1,4 +1,4 @@
-# sctN - [sctN 레포지토리 사이트](https://rlaghdtlr.github.io/stcN/)
+## sctN - [sctN 레포지토리 사이트](https://rlaghdtlr.github.io/stcN/)
 
 ### version 1.0
 
