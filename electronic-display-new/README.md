@@ -1,4 +1,4 @@
-## electronic-display-new - [전광판표출출 사이트](https://rlaghdtlr.github.io/stcN/electronic-display-new/)
+## electronic-display-new - [전광판표출 사이트](https://rlaghdtlr.github.io/stcN/electronic-display-new/)
 
 ### version 1.0
 
