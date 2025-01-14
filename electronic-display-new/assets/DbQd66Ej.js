@@ -1,0 +1,1 @@
+import{_ as t,o as n,c as a,a as s,V as o}from"./DR6o4iPn.js";const d={},c={class:"main-side-layout"},i={class:"main-section"},r={class:"side-section"};function _(e,l){return n(),a("div",c,[s("div",i,[o(e.$slots,"main",{},void 0,!0)]),s("div",r,[o(e.$slots,"side",{},void 0,!0)])])}const m=t(d,[["render",_],["__scopeId","data-v-4996ded9"]]);export{m as default};
