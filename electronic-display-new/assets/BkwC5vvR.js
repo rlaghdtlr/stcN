@@ -1,0 +1,1 @@
+import{f as n,cq as e,o as c,c as r,b as o,V as _,_ as d}from"./C320s8D_.js";const l={class:"layout"},p=n({__name:"default",setup(f){return(t,m)=>{const s=e("TheHeader"),a=e("TheFooter");return c(),r("div",l,[o(s),_(t.$slots,"default",{},void 0,!0),o(a)])}}}),h=d(p,[["__scopeId","data-v-075f01de"]]);export{h as default};
